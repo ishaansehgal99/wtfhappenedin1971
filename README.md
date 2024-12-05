@@ -1,6 +1,6 @@
 
 
-![[Pasted image 20241202203848.png]]
+![image](Pasted%20image%2020241202203848.png)
 So I am confused here why real GDP per capita is above real GDP per FTE. Given than there is more capita (people) than there is FTE. But this is relative to some rate baseline which is 100. 
 
 ### **Hypothetical Example**:
@@ -29,15 +29,15 @@ $$\text{GDP Deflator} = \frac{\text{Nominal GDP}}{\text{Real GDP}} \times 100$$
 2. Consumer costs (CPI)
 
 
-![[Pasted image 20241202215142.png]]
+![](Pasted%20image%2020241202215142.png)
 
 Income growth as percentiles. e.g 95th percentile means top 5% of American earners. After 1971 the gap widens in income growth and top percentile grows more. 
 
-![[Pasted image 20241202215350.png]]
+![](Pasted%20image%2020241202215350.png)
 
 Another graph here showing how income growth accelerates after 1971 for Americas top 1% of earners. But stagnates for bottom 90%.
 
-![[Pasted image 20241202220456.png]]
+![image](Pasted%20image%2020241202220456.png)
 
 All values on the y-axis are negative, indicating that the **bottom 90% collectively have a larger share of total income than the top 1%**. The numbers reflect how much smaller the top 1%'s share is compared to the bottom 90%'s share.
 
@@ -47,27 +47,27 @@ For example:
 
 
 
-![[Pasted image 20241202220640.png]]
+![image](Pasted%20image%2020241202220640.png)
 
 
 
-![[Pasted image 20241202220801.png]]
+![image](Pasted%20image%2020241202220801.png)
 
 Share of top 10% of income earners relative to everybody else
 
-![[Pasted image 20241202221007.png]]
+![image](Pasted%20image%2020241202221007.png)
 
 
-![[Pasted image 20241202221108.png]]
+![image](Pasted%20image%2020241202221108.png)
 
-![[Pasted image 20241202221112.png]]
+![image](Pasted%20image%2020241202221112.png)
 
-![[Pasted image 20241202221307.png]]
+![image](Pasted%20image%2020241202221307.png)
 
-![[Pasted image 20241202221322.png]]
+![image](Pasted%20image%2020241202221322.png)
 
 
-![[Pasted image 20241202221408.png]]
+![image](Pasted%20image%2020241202221408.png)
 After 1971, a clear divergence occurs: **U.S. gold reserves decrease, while gold prices increase**.
 
 
@@ -84,10 +84,10 @@ After 1971, a clear divergence occurs: **U.S. gold reserves decrease, while gold
     - Freed from the fixed peg, gold's price responded to market forces, surging due to inflation, economic uncertainty, and demand as a store of value.
 
 
-![[Pasted image 20241202221823.png]]
+![image](Pasted%20image%2020241202221823.png)
 
 
-![[Pasted image 20241202222358.png]]
+![image](Pasted%20image%2020241202222358.png)
 ### **Receipts**:
 - **Definition**:
     - Federal receipts are the total income collected by the U.S. government from taxes, fees, and other sources.
@@ -105,7 +105,7 @@ After 1971, a clear divergence occurs: **U.S. gold reserves decrease, while gold
         - Interest on the national debt.
 
 
-![[Pasted image 20241202222502.png]]
+![image](Pasted%20image%2020241202222502.png)
 
 The **P/E (Price-to-Earnings) ratio** is a widely used financial metric that compares a company's (or stock index's) price to its earnings. It is used to assess the relative value of a stock or the stock market and is a critical indicator for investors.
 
@@ -116,12 +116,12 @@ The **P/E (Price-to-Earnings) ratio** is a widely used financial metric that com
     - The company (or market) is undervalued.
     - There are concerns about future earnings growth.
 
-![[Pasted image 20241202222803.png]]
+![image](Pasted%20image%2020241202222803.png)
 
 
 This chart underscores the divergence between financial market activity and real economic production after the 1970s, reflecting the increasing dominance of speculation in financial markets.
 
-![[Pasted image 20241202223955.png]]
+![image](Pasted%20image%2020241202223955.png)
 
 ### **Market Capitalization**:
 
@@ -130,36 +130,36 @@ This chart underscores the divergence between financial market activity and real
     - Market capitalization (or market cap) is the total value of a company's outstanding shares of stock.
     - Formula: $$\text{Market Cap} = \text{Share Price} \times \text{Number of Outstanding Shares}$$
   
-![[Pasted image 20241203232147.png]]
+![image](Pasted%20image%2020241203232147.png)
 Cloture is the process used to end a filibuster. Increasing use of cloture since 1971. Reflects growing use of filibusters and clotures, increased partisanship and gridlock in the senate. 
 
 
 
-![[Pasted image 20241203232508.png]]
-![[Pasted image 20241203232546.png]]
+![image](Pasted%20image%2020241203232508.png)
+![image](Pasted%20image%2020241203232546.png)
 Some of these charts definitely can't be directly caused by depegging of US dollar. 
 
-![[Pasted image 20241203232602.png]]
+![image](Pasted%20image%2020241203232602.png)
 
-![[Pasted image 20241203232649.png]]
+![image](Pasted%20image%2020241203232649.png)
 
-![[Pasted image 20241203232705.png]]
+![image](Pasted%20image%2020241203232705.png)
 
 
 
-![[Pasted image 20241203235747.png]]
+![image](Pasted%20image%2020241203235747.png)
 
 Depegging could have led to globalization, more flexible exchange rates, more trade. This as well as immigration policies of course. 
 
-![[Pasted image 20241204000056.png]]
+![image](Pasted%20image%2020241204000056.png)
 
 Economic pressures delayed key life events such as marriage as people needed more time to achieve financial stability. Also cultural shifts like shifts in gender roles and priorities (e.g. career focus over early marriage)
 
 
-![[Pasted image 20241204000117.png]]
+![image](Pasted%20image%2020241204000117.png)
 Economic pressures could also contribute to divorce 
 
-![[Pasted image 20241204000853.png]]
+![image](Pasted%20image%2020241204000853.png)
 Financial strain can challenge marriage and family stability. 
 
 Decline of manufacturing jobs. Many stable blue-collar jobs disappeared (e.g. Detroit, Pittsburgh, St. Louis etc.) had a cascading effect on family structures. Men's economic role diminished, now they faced unemployment, underemployment and lower wages in the service economy. This reduced their ability to fulfill traditional economic roles with in a marriage, leading some to opt out of marriage altogether. 
@@ -168,11 +168,11 @@ Expansion of welfare programs inadvertently reduced the economic incentives for 
 
 Womens economic independence may have reduced reliance on marriage for economic stability.
 
-![[Pasted image 20241204000859.png]]
+![image](Pasted%20image%2020241204000859.png)
 Economic stress from inflation, families less likely to have more kids.
 
 
-![[Pasted image 20241204001110.png]]
+![image](Pasted%20image%2020241204001110.png)
 Economic pressures, families seek cheaper food options. Food companies to cut costs begin mass-producing low-cost processed foods, which became more widely available and affordable than fresh whole foods. Sugary foods, snacks, sodas, fast food, heavily marketed to kids. 
 
 Economic pressures also forced many families to rely on dual incomes reducing the time available for home-cooked meals and physical activity. Fostered reliance on convenience foods. 
@@ -181,7 +181,7 @@ Urbanization and economic changes led to less outdoor play, sedentary lifestyle 
 
 After depegging US subsidized corn production, leading to widespread adoption of High Fructose Corn Syrup. Cheaper sugar alternative.
 
-![[Pasted image 20241204213839.png]]
+![image](Pasted%20image%2020241204213839.png)
 
 Inflation leads to increasing medical prices which rose faster than general inflation.
 
@@ -191,7 +191,7 @@ With more federal investments/spending, healthcare systems began adopting more e
 
 U.S. Government also took on more debt to finance programs and subsidies in healthcare
 
-![[Pasted image 20241204222534.png]]
+![image](Pasted%20image%2020241204222534.png)
 
 As systems grew post depegging, healthcare administrators responsible for managing billing, compliance and operational costs, become increasingly necessary as the complexity of healthcare economics grew. 
 
@@ -204,10 +204,10 @@ New tech adoption, partly fueled by increased spending capacity, required admini
 
 
 
-![[Pasted image 20241204224628.png]]
+![image](Pasted%20image%2020241204224628.png)
 
 
-![[Pasted image 20241204224632.png]]
+![image](Pasted%20image%2020241204224632.png)
 
 Shift towards cost effective foods. Traditional staples like beef, potatoes and milk had rising costs to cheaper alternatives like chicken, cooking oils and corn-based products (e.g. sweeteners) which gained popularity as they were more affordable for both producers and consumers. 
 
