@@ -220,7 +220,6 @@ Chicken replaced beef and became the dominant protein source as it was cheaper t
 These graphs highlight dietary shift in the US from traditional whole foods (e.g. beef, potatoes and milk) to processed and cost-effective alternatives (e.g. chicken, corn sweeteners, and vegetable oils). 
 
 
-
 ### Some Glossary Terms
 1. **Nominal GDP**:
     - The value of all goods and services produced in an economy at current market prices (not adjusted for inflation).
@@ -231,5 +230,6 @@ These graphs highlight dietary shift in the US from traditional whole foods (e.g
 3. **GDP Deflator**:    
     - A price index that compares the current price level of goods and services to the price level in the base year.
 4. $\text{Personal Savings Rate} = \left( \frac{\text{Savings}}{\text{Disposable Income}} \right) \times 100$
+
 
 
